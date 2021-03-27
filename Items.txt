@@ -365,7 +365,7 @@
 	
 	"ITEM_NEARBYDAMAGEBONUS_NAME": "Focus Crystal",
 	"ITEM_NEARBYDAMAGEBONUS_DESC": "Increase damage to enemies within <style=cIsDamage>13m</style> by <style=cIsDamage>20%</style> <style=cStack>(+20% per stack)</style>.",
-	"ITEM_NEARBYDAMAGEBONUS_DESC": "Increase damage to enemies within <style=cIsDamage>13m</style> by <style=cIsDamage>20%</style> <style=cStack>(+20% per stack)</style>.",
+	"ITEM_NEARBYDAMAGEBONUS_PICKUP": "Increase damage to enemies within <style=cIsDamage>13m</style> by <style=cIsDamage>20%</style> <style=cStack>(+20% per stack)</style>.",
 	"ITEM_NEARBYDAMAGEBONUS_LORE": "Order: Condensed Matter Crystal [50kg, 10cm by 10cm by 10cm]\r\nTracking Number: 12***********\r\nEstimated Delivery: 05\/23\/2056\r\nShipping Method:  Standard\r\nShipping Address: Geofferson Principality, Highward, Titan\r\nShipping Details: \r\n\r\nHope they don\u2019t up the price for this thing. I haven\u2019t had troubles with UES before, but I\u2019ve never had to ship a crystal this far before. Let me know if the package is marked as \u201Cheavy\u201D when you get it.\r\n",
 	
 	"ITEM_LUNARSKILLREPLACEMENTS_NAME" : "Heresy Set",
