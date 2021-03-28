@@ -236,7 +236,7 @@
 
 	"ITEM_SPRINTBONUS_NAME": "Energy Drink",
 	"ITEM_SPRINTBONUS_DESC": "<style=cIsUtility>Sprint speed</style> is improved by <style=cIsUtility>25%</style> <style=cStack>(+25% per stack)</style>.",
-	"ITEM_SPRINTBONUS_DESC": "<style=cIsUtility>Sprint speed</style> is improved by <style=cIsUtility>25%</style> <style=cStack>(+25% per stack)</style>.",
+	"ITEM_SPRINTBONUS_PICKUP": "<style=cIsUtility>Sprint speed</style> is improved by <style=cIsUtility>25%</style> <style=cStack>(+25% per stack)</style>.",
 	"ITEM_SPRINTBONUS_LORE" : "Order: NR-G Sports Soda (400)\r\nTracking Number: 49******\r\nEstimated Delivery: 03\/12\/2056\r\nShipping Method:  Standard\r\nShipping Address: Venetian Health & Public Services, Ridgelake, Venus\r\nShipping Details:\r\n\r\nYeah, so, uh this is the um, the energy drink that people were mixing during that disaster in Majora Minora a few weeks ago. \r\n\r\nA quick toxicology test on some of the victims has come back positive for um... all kinds of stuff, really. Methadone, phencyclidine, tetrahydrocannabinol, a variety of opiates, benzodiazepines, barbiturates, amphetamines... the list just goes on and on and on.\r\n\r\nRadical Drinks is insisting that NONE of those were from their energy drink - which I find pretty uh, unlikely. Maybe they REALLY know how to party in Violet Heights, huh?\r\n",
 	
 	"ITEM_SECONDARYSKILLMAGAZINE_NAME": "Backup Magazine",
