@@ -113,7 +113,6 @@
 	"ITEM_COOLDOWNONCRIT_NAME": "Wicked Ring",
 	"ITEM_COOLDOWNONCRIT_DESC": "Gain <style=cIsDamage>5% critical chance</style>. <style=cIsDamage>Critical strikes</style> reduces all your <style=cIsUtility>cooldowns</style> by <style=cIsUtility>1</style>.",
 	"ITEM_COOLDOWNONCRIT_PICKUP": "Gain <style=cIsDamage>5% critical chance</style>. <style=cIsDamage>Critical strikes</style> reduces all your <style=cIsUtility>cooldowns</style> by <style=cIsUtility>1</style>.",
-	"ITEM_COOLDOWNONCRIT_LORE": "yes :)"
 
 	"ITEM_WARDONLEVEL_NAME": "Warbanner",
 	"ITEM_WARDONLEVEL_DESC": "On <style=cIsUtility>level up</style> or starting the <style=cIsUtility>Teleporter event</style>, drop a banner that strengthens all allies within <style=cIsUtility>16m</style> <style=cStack>(+8m per stack)</style>. Raise <style=cIsDamage>attack</style> and <style=cIsUtility>movement speed</style> by <style=cIsDamage>30%</style>.",
