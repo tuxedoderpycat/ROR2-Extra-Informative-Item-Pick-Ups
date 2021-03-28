@@ -538,7 +538,7 @@
 	
 	"ITEM_LUNARSPECIALREPLACEMENT_NAME" : "Essence of Heresy",
 	"ITEM_LUNARSPECIALREPLACEMENT_DESC": "<style=cIsUtility>Replace your Special Skill</style> with <style=cIsUtility>Ruin</style>.  \n\nDealing damage adds a stack of <style=cIsDamage>Ruin</style> for 10 <style=cStack>(+10 per stack)</style> seconds. Activating the skill <style=cIsDamage>detonates</style> all Ruin stacks at unlimited range, dealing <style=cIsDamage>300% damage</style> plus <style=cIsDamage>120% damage per stack of Ruin</style>. Recharges after 8 <style=cStack>(+8 per stack)</style> seconds.",
-	"ITEM_LUNARSPECIALREPLACEMENT_PICKUP": "<style=cIsUtility>Replace your Special Skill</style> with <style=cIsUtility>Ruin</style>.",
+	"ITEM_LUNARSPECIALREPLACEMENT_PICKUP": "<style=cIsUtility>Replace your Special Skill</style> with <style=cIsUtility>Ruin</style>.  \n\nDealing damage adds a stack of <style=cIsDamage>Ruin</style> for 10 <style=cStack>(+10 per stack)</style> seconds. Activating the skill <style=cIsDamage>detonates</style> all Ruin stacks at unlimited range, dealing <style=cIsDamage>300% damage</style> plus <style=cIsDamage>120% damage per stack of Ruin</style>. Recharges after 8 <style=cStack>(+8 per stack)</style> seconds.",
 	"ITEM_LUNARSPECIALREPLACEMENT_LORE" : "\u201C\u2026and her heart, too wicked and full of hate, was left where she once stood \u2013 at the site of her betrayal.\u201D\r\n\r\n-The Evisceration of Kur-skan the Heretic, VI\r\n",
 	}
 }
