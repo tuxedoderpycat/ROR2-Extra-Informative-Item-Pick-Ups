@@ -21,7 +21,7 @@
 	"EQUIPMENT_SOULJAR_PICKUP": "Duplicate every enemy as a ghost to fight on your side for 15 seconds.",
 
 	"EQUIPMENT_BLACKHOLE_NAME": "Primordial Cube",
-	"EQUIPMENT_BLACKHOLE_PICKUP": "Fire a black hole that <style=cIsUtility>draws enemies within 30m into its center</style>. Lasts 10 seconds.",
+	"EQUIPMENT_BLACKHOLE_DESC": "Fire a black hole that <style=cIsUtility>draws enemies within 30m into its center</style>. Lasts 10 seconds.",
 	"EQUIPMENT_BLACKHOLE_PICKUP": "Fire a black hole that <style=cIsUtility>draws enemies within 30m into its center</style>. Lasts 10 seconds. Has a cooldown of <style=cIsUtility>45 seconds</style>.",
 	"EQUIPMENT_BLACKHOLE_LORE": "\u201CProfessors Mia Thatcher and Jared Malik report that the galaxy\u2019s first singularity containment lattice \u2013 or SCL, for short \u2013 has finished tests and is confirmed to be perfectly safe. \r\n\r\nWhile this is a historic scientific breakthrough, multiple scientists have spoken out about the implications of such a discovery - and what it could mean for the future of the humanity.\u201D\r\n\r\n- The Saturn Reporter, Front Page Headline\r\n",
 
