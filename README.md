@@ -10,12 +10,4 @@ This mod adds extra details to the items during pickup and in the logbooks. This
 Huge thanks to The Assistance Importer and Nada Afterwards for contributing a lot of information and suggestions! Also special thanks to my friend, Failtronic2, for helping me find a lot of mistakes or poor wording. All these people have been a huge help while making this mod!
 
 ## Information that is currently missing
-* Proc coefficient for Bandit's alternate M1
-* Proc coefficients for both of Bandit's M2's
-* Proc coefficient for Bandit's Shift
-* Proc coefficient for Bandit's alternate R
-* Proc coefficient for REX's new R
-* Proc coefficient for Captain's alternate Shift
 * Proc coefficient for Charged Perforator
-* Proc coefficient for Slicing Maelstrom
-* Proc coefficient for Ruin (If any)
