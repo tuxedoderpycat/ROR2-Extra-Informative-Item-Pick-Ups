@@ -416,7 +416,7 @@
 	"SKILL_LUNAR_UTILITY_REPLACEMENT_NAME" : "Shadowfade",
 	"SKILL_LUNAR_UTILITY_REPLACEMENT_DESCRIPTION" : "Fade away, becoming <style=cIsUtility>intangible</style> and gaining <style=cIsUtility>+30% movement speed</style>. <style=cIsHealing>Heal</style> for <style=cIsHealing>25% <style=cStack>(+25% per stack)</style> of your maximum health</style>. Lasts 3 seconds <style=cStack>(+3 per stack)</style>.",
 	"SKILL_LUNAR_SPECIAL_REPLACEMENT_NAME" : "Ruin",
-	"SKILL_LUNAR_SPECIAL_REPLACEMENT_DESCRIPTION" : "Agile. Dealing damage adds a stack of <style=cIsDamage>Ruin</style> for 10 seconds <style=cStack>(+10 per stack)</style>. Activating the skill <style=cIsDamage>detonates</style> all Ruin stacks at unlimited range, dealing <style=cIsDamage>300%</style> damage with a <style=cIsDamage>Proc Coefficient of 1</style> plus <style=cIsDamage>120%</style> damage per stack of Ruin. Has a cooldown of <style=cIsUtility>8 seconds</style> <style=cStack>(+8 per stack)</style>.",
+	"SKILL_LUNAR_SPECIAL_REPLACEMENT_DESCRIPTION" : "Agile. Dealing damage adds a stack of <style=cIsDamage>Ruin</style> for 10 seconds <style=cStack>(+10 per stack)</style>. Activating the skill <style=cIsDamage>detonates</style> all Ruin stacks at unlimited range, dealing <style=cIsDamage>300%</style> damage with a <style=cIsDamage>Proc Coefficient of 1</style> plus <style=cIsDamage>120%</style> damage per stack of Ruin. <style=cIsDamage>Chance to apply Ruin</style> scales with <style=cIsUtility>Proc Coefficient</style>. Has a cooldown of <style=cIsUtility>8 seconds</style> <style=cStack>(+8 per stack)</style>.",
 	"MAULINGROCK_BODY_NAME": "Flying Rock",
 	"TIMECRYSTAL_BODY_NAME" : "Time Crystal",
 	"ROBOBALLREDBUDDY_BODY_NAME" : "Quiet Probe",
