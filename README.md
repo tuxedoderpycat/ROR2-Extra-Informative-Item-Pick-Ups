@@ -8,6 +8,3 @@ This mod adds extra details to the items during pickup and in the logbooks. This
 [Likewise, click here for a guide on how to uninstall the mod](https://github.com/tuxedoderpycat/TEXT-MOD-More-Informative-Item-Pick-Ups/wiki/Uninstalling)
 
 Huge thanks to The Assistance Importer and Nada Afterwards for contributing a lot of information and suggestions! Also special thanks to my friend, Failtronic2, for helping me find a lot of mistakes or poor wording. All these people have been a huge help while making this mod!
-
-## Information that is currently missing
-* Proc coefficient for Charged Perforator
