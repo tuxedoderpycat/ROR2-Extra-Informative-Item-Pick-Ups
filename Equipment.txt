@@ -88,6 +88,10 @@
     "EQUIPMENT_AFFIXHAUNTED_DESC": "Become an aspect of incorporeality.",
     "EQUIPMENT_AFFIXHAUNTED_PICKUP": "Become an aspect of incorporeality.",
 
+    "EQUIPMENT_AFFIXLUNAR_NAME": "Shared Design",
+    "EQUIPMENT_AFFIXLUNAR_PICKUP": "Become an aspect of perfection.",
+    "EQUIPMENT_AFFIXLUNAR_DESC": "",
+
 	"EQUIPMENT_BURNNEARBY_NAME" : "Helfire Tincture",
 	"EQUIPMENT_BURNNEARBY_DESC" : "Ignite ALL characters within 8m. Deal <style=cIsDamage>5% of your maximum health/second as burning</style> to yourself. The burn is <style=cIsDamage>0.5x</style> stronger on allies, and <style=cIsDamage>24x</style> stronger on enemies. Lasts for <style=cIsUtility>12 seconds</style>.",
 	"EQUIPMENT_BURNNEARBY_PICKUP" : "Ignite ALL characters within 8m. Deal <style=cIsDamage>5% of your maximum health/second as burning</style> to yourself. The burn is <style=cIsDamage>0.5x</style> stronger on allies, and <style=cIsDamage>24x</style> stronger on enemies. Lasts for <style=cIsUtility>12 seconds</style>. Has a cooldown of <style=cIsUtility>45 seconds</style>.",
