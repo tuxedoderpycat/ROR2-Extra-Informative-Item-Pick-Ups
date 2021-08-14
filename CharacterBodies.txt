@@ -268,7 +268,7 @@
 	"BANDIT2_SECONDARY_ALT_NAME": "Serrated Shiv",
 	"BANDIT2_SECONDARY_ALT_DESCRIPTION" : "<style=cIsUtility>Agile</style>. Throw a hidden blade for <style=cIsDamage>240% damage</style> with a <style=cIsDamage>Proc Coefficient of 1</style>. Critical Strikes also cause <style=cIsHealth>hemorrhaging</style>. Has a cooldown of <style=cIsUtility>4 seconds</style>.",
 	"BANDIT2_UTILITY_NAME": "Smoke Bomb",
-	"BANDIT2_UTILITY_DESCRIPTION" : "<style=cIsDamage>Stunning</style>. <style=cIsUtility>Agile</style>. Deal <style=cIsDamage>200% damage</style>, become <style=cIsUtility>invisible</style>, then deal <style=cIsDamage>200% damage</style> again. Both instances of damage have a <style=cIsDamage>Proc Coefficient of 1</style>. Has a cooldown of <style=cIsUtility>6 seconds</style>.",
+	"BANDIT2_UTILITY_DESCRIPTION" : "<style=cIsDamage>Stunning</style>. <style=cIsUtility>Agile</style>. Deal <style=cIsDamage>200% damage</style>, become <style=cIsUtility>invisible</style> and gain a <style=cIsUtility>speed boost</style> for 3 seconds, then deal <style=cIsDamage>200% damage</style> again. Both instances of damage have a <style=cIsDamage>Proc Coefficient of 1</style>. <style=cIsUtilityCancelled early by using other skills</style>. Has a cooldown of <style=cIsUtility>6 seconds</style>.",
 	"BANDIT2_SPECIAL_NAME": "Lights Out",
 	"BANDIT2_SPECIAL_DESCRIPTION" : "<style=cIsDamage>Slayer</style>. Fire a revolver shot for <style=cIsDamage>600% damage</style> with a <style=cIsDamage>Proc Coefficient of 1</style>. Kills <style=cIsUtility>reset all your cooldowns</style>. Has a cooldown of <style=cIsUtility>7 seconds</style>.",
 	"BANDIT2_SPECIAL_ALT_NAME": "Desperado",
