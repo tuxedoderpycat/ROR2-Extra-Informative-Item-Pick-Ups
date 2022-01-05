@@ -76,7 +76,7 @@
 	"ENGI_SPECIAL_ALT1_NAME": "TR58 Carbonizer Turret",
 	"ENGI_SPECIAL_ALT1_DESCRIPTION" : "Place a <style=cIsUtility>mobile</style> turret that <style=cIsUtility>inherits all your items.</style> Fires a laser for <style=cIsDamage>200% damage per second</style> with a <style=cIsDamage>Proc Coefficient of 0.6</style> that <style=cIsUtility>slows enemies</style>. Can place up to 2. Has a cooldown of <style=cIsUtility>30 seconds</style>.",
 	"ENGI_SKILL_HARPOON_NAME":  "Thermal Harpoons",
-	"ENGI_SKILL_HARPOON_DESCRIPTION":  "Enter <style=cIsUtility>target painting mode</style> to launch heat-seeking harpoons that deal <style=cIsDamage>500% damage</style> each with a <style=cIsDamage>Proc Coefficient of 1</style>. Can store up to 4. Each charge has a cooldown of <style=cIsUtility>2.75 seconds</style>.",
+	"ENGI_SKILL_HARPOON_DESCRIPTION":  "Enter <style=cIsUtility>target painting mode</style> to launch heat-seeking harpoons that deal <style=cIsDamage>500% damage</style> each with a <style=cIsDamage>Proc Coefficient of 1</style>. Can store up to 4. Each charge has a cooldown of <style=cIsUtility>2.5 seconds</style>.",
 	"ENGI_SKILL_HARPOON_FLAVOR_FULLYARMED" : "TARGETS ACQUIRED - READY TO FIRE",
 	"ENGI_SKILL_PAINT_NAME" : "Paint Target",
 	"ENGI_SKILL_PAINT_DESCRIPTION" : "Hold down to paint targets for your Thermal Harpoons.",
