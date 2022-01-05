@@ -72,7 +72,7 @@
 	"ENGI_UTILITY_NAME": "Bubble Shield",
 	"ENGI_UTILITY_DESCRIPTION" : "Place an <style=cIsUtility>impenetrable shield</style> that blocks all incoming damage. Has a cooldown of <style=cIsUtility>25 seconds</style>.",
 	"ENGI_SPECIAL_NAME": "TR12 Gauss Auto-Turret",
-	"ENGI_SPECIAL_DESCRIPTION" : "Place a turret that <style=cIsUtility>inherits all your items.</style> Fires a cannon for <style=cIsDamage>100% damage</style> with a <style=cIsDamage>Proc Coefficient of 1</style>. Can place up to 2. Has a cooldown of <style=cIsUtility>30 seconds</style>.",
+	"ENGI_SPECIAL_DESCRIPTION" : "Place a turret that <style=cIsUtility>inherits all your items.</style> Fires a cannon for <style=cIsDamage>80% damage</style> with a <style=cIsDamage>Proc Coefficient of 1</style>. Can place up to 2. Has a cooldown of <style=cIsUtility>30 seconds</style>.",
 	"ENGI_SPECIAL_ALT1_NAME": "TR58 Carbonizer Turret",
 	"ENGI_SPECIAL_ALT1_DESCRIPTION" : "Place a <style=cIsUtility>mobile</style> turret that <style=cIsUtility>inherits all your items.</style> Fires a laser for <style=cIsDamage>200% damage per second</style> with a <style=cIsDamage>Proc Coefficient of 0.6</style> that <style=cIsUtility>slows enemies</style>. Can place up to 2. Has a cooldown of <style=cIsUtility>30 seconds</style>.",
 	"ENGI_SKILL_HARPOON_NAME":  "Thermal Harpoons",
