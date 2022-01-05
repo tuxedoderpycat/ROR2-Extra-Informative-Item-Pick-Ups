@@ -135,7 +135,7 @@
 	"TOOLBOT_PRIMARY_ALT1_NAME": "Rebar Puncher",
 	"TOOLBOT_PRIMARY_ALT1_DESCRIPTION" : "Fire a piercing rebar that deals <style=cIsDamage>600% damage</style> with a <style=cIsDamage>Proc Coefficient of 1</style>. <style=cIsUtility>Charges after each shot</style>.",
 	"TOOLBOT_PRIMARY_ALT2_NAME": "Scrap Launcher",
-	"TOOLBOT_PRIMARY_ALT2_DESCRIPTION" : "Fire a rocket that explodes in a radius of <style=cIsUtility>7m</style> for <style=cIsDamage>360% damage</style> with a <style=cIsDamage>Proc Coefficient of 1</style>. Hold up to 4. Has a cooldown of <style=cIsUtility>3 seconds</style>.",
+	"TOOLBOT_PRIMARY_ALT2_DESCRIPTION" : "Fire a rocket that explodes in a radius of <style=cIsUtility>7m</style> for <style=cIsDamage>360% damage</style> with a <style=cIsDamage>Proc Coefficient of 1</style>. Hold up to 4. Has a cooldown of <style=cIsUtility>1.5 seconds</style>.",
 	"TOOLBOT_PRIMARY_ALT3_NAME": "Power-Saw",
 	"TOOLBOT_PRIMARY_ALT3_DESCRIPTION" : "<style=cIsUtility>Agile</style>. Saw nearby enemies for <style=cIsDamage>10x100% damage per second</style> with a <style=cIsDamage>Proc Coefficient of 1</style>.",
 	"TOOLBOT_SECONDARY_NAME": "Blast Canister",
