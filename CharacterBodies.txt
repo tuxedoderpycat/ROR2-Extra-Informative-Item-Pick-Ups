@@ -45,7 +45,7 @@
 	"MERC_SECONDARY_NAME": "Whirlwind",
 	"MERC_SECONDARY_DESCRIPTION" : "Quickly slice horizontally twice, dealing <style=cIsDamage>2x200% damage</style> with a <style=cIsDamage>Proc Coefficient of 1</style>. If airborne, slice vertically instead. Has a cooldown of <style=cIsUtility>2.5 seconds</style>.",
 	"MERC_SECONDARY_ALT1_NAME": "Rising Thunder",
-	"MERC_SECONDARY_ALT1_DESCRIPTION" : "Unleash a slicing uppercut, dealing <style=cIsDamage>450% damage</style> with a <style=cIsDamage>Proc Coefficient of 1</style>, and sends you airborne. Has a cooldown of <style=cIsUtility>3 seconds</style>.",
+	"MERC_SECONDARY_ALT1_DESCRIPTION" : "Unleash a slicing uppercut, dealing <style=cIsDamage>450% damage</style> with a <style=cIsDamage>Proc Coefficient of 1</style>, and sends you airborne. Has a cooldown of <style=cIsUtility>2.5 seconds</style>.",
 	"MERC_UTILITY_NAME": "Blinding Assault",
 	"MERC_UTILITY_DESCRIPTION" : "<style=cIsDamage>Stunning</style>. Dash forward, dealing <style=cIsDamage>300% damage</style> with a <style=cIsDamage>Proc Coefficient of 1</style>. If you hit an enemy, <style=cIsDamage>you can dash again</style>, up to <style=cIsDamage>3</style> total. <style=cIsUtility>Distance traveled scales with movement speed</style>. Has a cooldown of <style=cIsUtility>7 seconds</style>.",
 	"MERC_UTILITY_ALT1_NAME": "Focused Assault",
