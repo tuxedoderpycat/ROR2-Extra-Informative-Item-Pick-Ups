@@ -143,7 +143,7 @@
 	"TOOLBOT_UTILITY_NAME": "Transport Mode",
 	"TOOLBOT_UTILITY_DESCRIPTION" : "<style=cIsUtility>Heavy</style>. Zoom forward, gaining <style=cIsUtility>200 armor</style> and <style=cIsUtility>220% movement speed</style>.  Deals <style=cIsDamage>250% damage</style> to enemies in the way and <style=cIsDamage>4x damage</style> to large enemies. Charging has a <style=cIsDamage>Proc Coefficient of 1</style> while Ramming has a <style=cIsDamage>Proc Coefficient of 0</style>. Has a cooldown of <style=cIsUtility>6 seconds</style>.",
 	"TOOLBOT_SPECIAL_NAME": "Retool",
-	"TOOLBOT_SPECIAL_DESCRIPTION" : "Passively hold <style=cIsUtility>TWO equipment</style> at once. Activating 'Retool' switches the <style=cIsUtility>active Equipment</style> and <style=cIsDamage>MUL-T's primary attack</style>. Has a cooldown of <style=cIsUtility>0.4 seconds</style>.",
+	"TOOLBOT_SPECIAL_DESCRIPTION" : "Passively hold <style=cIsUtility>TWO equipment</style> at once. Activating 'Retool' switches the <style=cIsUtility>active Equipment</style> and <style=cIsDamage>MUL-T's primary attack</style>. Has a cooldown of <style=cIsUtility>0.5 seconds</style>.",
 	"TOOLBOT_SPECIAL_ALT_NAME" : "Power Mode",
 	"TOOLBOT_SPECIAL_ALT_DESCRIPTION" : "Enter a heavy stance, equipping both your <style=cIsDamage>primary attacks</style> at once. Gain <style=cIsUtility>100 armor</style>, but lose <style=cIsHealth>-60% movement speed</style>. Has a cooldown of <style=cIsUtility>5 seconds</style>.",
 	"TOOLBOT_SPECIAL_ALT_QUIT_NAME" : "Cancel Power Mode",
