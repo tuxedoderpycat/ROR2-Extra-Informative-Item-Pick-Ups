@@ -8,17 +8,3 @@ This mod adds extra details to the items during pickup and in the logbooks. This
 [Likewise, click here for a guide on how to uninstall the mod](https://github.com/tuxedoderpycat/TEXT-MOD-More-Informative-Item-Pick-Ups/wiki/Uninstalling)
 
 Huge thanks to The Assistance Importer and Nada Afterwards for contributing a lot of information and suggestions! Also special thanks to my friend, Failtronic2, for helping me find a lot of mistakes or poor wording. All these people have been a huge help while making this mod!
-
-### Current information hit list
-- [ ] Void Fiend proc coefficients
-- [ ] Shuriken proc coefficient
-- [ ] Egocentrism proc coefficient
-- [ ] Needle tick proc coefficient (if any)
-- [X] Plasma Shrimp proc coefficient
-- [ ] Polylute proc coefficient
-- [ ] Singularity Band proc coefficient
-- [ ] Voidsent Flame proc coefficient
-- [ ] Molotov proc coefficient
-- [ ] Trophy Hunter's Tricorn proc coefficient (if any, unlikely tbh)
-
-Any other miscellaneous details!
