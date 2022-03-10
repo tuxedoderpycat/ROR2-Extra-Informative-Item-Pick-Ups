@@ -116,7 +116,7 @@
 
 	"EQUIPMENT_CRIPPLEWARD_NAME" : "Effigy of Grief",
 	"EQUIPMENT_CRIPPLEWARD_DESC" :  "ALL characters within are <style=cIsUtility>slowed by 50%</style> and have their <style=cIsDamage>armor reduced by 20</style>. Can place up to <style=cIsUtility>5</style>.",
-	"EQUIPMENT_CRIPPLEWARD_PICKUP" :  "ALL characters within are <style=cIsUtility>slowed by 50%</style> and have their <style=cIsDamage>armor reduced by 20</style>. Can place up to <style=cIsUtility>5</style>. Has a cooldown of <style=cIsUtility>45 seconds</style>.",
+	"EQUIPMENT_CRIPPLEWARD_PICKUP" :  "ALL characters within are <style=cIsUtility>slowed by 50%</style> and have their <style=cIsDamage>armor reduced by 20</style>. Can place up to <style=cIsUtility>5</style>. Has a cooldown of <style=cIsUtility>15 seconds</style>.",
 	"EQUIPMENT_CRIPPLEWARD_LORE": "\u201CThis relic tells a story... But it is not a fairy tale. It\u2019s a tragedy. A story of betrayal, regret, and sorrow. A story of two.\u201D\r\n\r\n\u201CUh\u2026 okay\u2026? How the hell do you know that?\u201D\r\n",
 
 	"EQUIPMENT_GATEWAY_NAME" : "Eccentric Vase",
