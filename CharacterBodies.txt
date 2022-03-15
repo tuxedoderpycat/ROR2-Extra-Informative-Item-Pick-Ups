@@ -332,11 +332,11 @@
 	"VOIDSURVIVOR_PASSIVE_DESCRIPTION" : "At full <style=cIsVoid>Corruption</style>, transform your abilities into more aggressive forms.",
 	
 	"VOIDSURVIVOR_PRIMARY_NAME": "【D??row?n」",
-	"VOIDSURVIVOR_PRIMARY_DESCRIPTION" : "Fire a <style=cIsUtility>slowing</style> long-range beam for <style=cIsDamage>300% damage</style>.\n<style=cIsVoid>Corrupted:</style> Fire a <style=cIsDamage>2000% damage</style> damage short-range beam.</style>",
+	"VOIDSURVIVOR_PRIMARY_DESCRIPTION" : "Fire a <style=cIsUtility>slowing</style> long-range beam for <style=cIsDamage>300% damage</style> with a <style=cIsDamage>Proc Coefficient of 1</style>.\n<style=cIsVoid>Corrupted:</style> Fire a <style=cIsDamage>2000% damage</style> damage short-range beam with a <style=cIsDamage>Proc Coefficient of 0.6</style>.</style>",
 	"VOIDSURVIVOR_PRIMARY_UPRADE_TOOLTIP" : "<style=cKeywordName>【Corruption Upgrade】</style><style=cSub>Transform into a <style=cIsDamage>2000% damage</style> damage short-range beam.</style>",
 
 	"VOIDSURVIVOR_SECONDARY_NAME": "『Floo?d」",
-	"VOIDSURVIVOR_SECONDARY_DESCRIPTION" : "Fire a plasma missile for <style=cIsDamage>600% damage</style>. Fully charge it for an explosive plasma ball instead, dealing <style=cIsDamage>1100% damage</style> Has a cooldown of <style=cIsUtility>4 seconds</style>..\n<style=cIsVoid>Corrupted:</style> Fire a plasma missile for a <style=cIsDamage>1100% damage</style> damage arcing bomb with <style=cIsUtility>2x the radius</style>.",
+	"VOIDSURVIVOR_SECONDARY_DESCRIPTION" : "Fire a plasma missile for <style=cIsDamage>600% damage</style> with a <style=cIsDamage>Proc Coefficient of 1</style>. Fully charge it for an explosive plasma ball instead, dealing <style=cIsDamage>1100% damage</style> with a <style=cIsDamage>Proc Coefficient of 1</style>. Has a cooldown of <style=cIsUtility>4 seconds</style>..\n<style=cIsVoid>Corrupted:</style> Fire a plasma missile for a <style=cIsDamage>1100% damage</style> damage arcing bomb with <style=cIsUtility>2x the radius</style>.",
 	"VOIDSURVIVOR_SECONDARY_UPRADE_TOOLTIP" : "<style=cKeywordName>【Corruption Upgrade】</style><style=cSub>Transform into a <style=cIsDamage>1100% damage</style> arcing bomb with <style=cIsUtility>2x the radius</style>.</style>",
 
 	"VOIDSURVIVOR_UTILITY_NAME": "「?Tr?espass】",
