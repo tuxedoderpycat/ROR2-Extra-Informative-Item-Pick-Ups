@@ -561,8 +561,8 @@
 	"ITEM_HEALINGPOTIONCONSUMED_PICKUP" : "An empty container for an Elixir. Does nothing.",
 
 	"ITEM_PERMANENTDEBUFFONHIT_NAME" : "Symbiotic Scorpion",
-	"ITEM_PERMANENTDEBUFFONHIT_DESC": "<style=cIsDamage>100%</style> chance on hit to reduce <style=cIsDamage>armor</style> by <style=cIsDamage>2</style> <style=cStack>(+2 per stack)</style> <style=cIsDamage>permanently</style>.", 
-	"ITEM_PERMANENTDEBUFFONHIT_PICKUP": "<style=cIsDamage>100%</style> chance on hit to reduce <style=cIsDamage>armor</style> by <style=cIsDamage>2</style> <style=cStack>(+2 per stack)</style> <style=cIsDamage>permanently</style>.", 
+	"ITEM_PERMANENTDEBUFFONHIT_DESC": "<style=cIsDamage>100%</style> chance on hit to reduce <style=cIsDamage>armor</style> by <style=cIsDamage>2</style> <style=cStack>(+2 per stack)</style> <style=cIsDamage>permanently</style>. <style=cIsUtility>Chance</style> scales with <style=cIsDamage>Proc Coefficient</style>.", 
+	"ITEM_PERMANENTDEBUFFONHIT_PICKUP": "<style=cIsDamage>100%</style> chance on hit to reduce <style=cIsDamage>armor</style> by <style=cIsDamage>2</style> <style=cStack>(+2 per stack)</style> <style=cIsDamage>permanently</style>. <style=cIsUtility>Chance</style> scales with <style=cIsDamage>Proc Coefficient</style>.", 
 	"ITEM_PERMANENTDEBUFFONHIT_LORE" : "\"There's countless ways to defeat your enemy. You can shoot them. You can punch them. Beat them, mash them, stick them in a stew, list goes on. But man, one thing that really makes me laugh...? That's right:\n\nBurying them under a mound of scorpions.\"\n\n\"You're messed up in the head, Bill.\"\n\n- Signal echoes, UES Contact Light",
 
 	"ITEM_MOREMISSILE_NAME" : "Pocket I.C.B.M.",
