@@ -1,4 +1,4 @@
-# More-Informative-Item-Pick-Ups [Survivors of the Void Update]
+# More-Informative-Item-Pick-Ups [Seekers of the Storm Update]
 (You *can* call it MIIPU if you want)
 
 This mod adds extra details to the items during pickup and in the logbooks. This is a mod for people who want the most amount of information about item damages, procs, stacking benefits, etc. Sometimes the wording can be a bit verbose, but the goal of this mod is to contain the all relevant information, regardless of word limit. That being said, if you have any suggestions/corrections regarding how things are worded, feel free to suggest them or make a pull request!
